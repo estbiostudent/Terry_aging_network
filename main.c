@@ -32,7 +32,6 @@ double g2l[numg2]={0.14};		//gamma1 value goes here
 double dl[numd]={2.4};			//damage value goes here
 
 //800,0.0035,0.0035,4
-//2700,0.0017,0,10
 //don't change anything below these lines
 
 
